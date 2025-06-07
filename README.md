@@ -24,7 +24,7 @@ from **unreal** to **unity**, from shaders to servers — the whole pipeline bow
 
 ### 🎮 projects
 
-- `test`: test
+- `NETRUNNER`: NOMAD NIGHTMARE
 
 ---
 
