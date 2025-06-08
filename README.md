@@ -1,4 +1,3 @@
-<!-- centered header with banner -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/49/ab/24/49ab24125bf09bad9a774628b1b1fd70.gif" width="100%" alt="banner" style="border-radius:10px"/>
 </p>
