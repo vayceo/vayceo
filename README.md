@@ -21,18 +21,6 @@ from **unreal** to **unity**, from shaders to servers — the whole pipeline bow
 
 ---
 
-### 🎮 projects
-
-- `NETRUNNER`: NOMAD NIGHTMARE
-- `MTA`: LIT MOBILE
-- `MTA`: LUXE MTA
-- `MTA`: SUETA MTA
-- `MTA`: DAG MTA
-- `MTA`: DERBENTSKIE OPERA MTA
-- `MTA`: STATE MTA (?)
-
----
-
 ### 🛰️ connect
 
 [telegram](https://t.me/psychobye) • [itch.io](https://psychobye.itch.io) • [github](https://github.com/psychobye)
