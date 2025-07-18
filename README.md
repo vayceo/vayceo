@@ -10,9 +10,3 @@ from **unreal** to **unity**, from shaders to servers — the whole pipeline bow
 ### 🛰️ connect
 
 [telegram](https://t.me/marindayooo)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psychobye&show_icons=true&theme=radical&hide_border=true&hide_rank=true" />
-</p>
