@@ -27,4 +27,4 @@ from **unreal** to **unity**, from shaders to servers — the whole pipeline bow
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marindayooo)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=isweikton.isweikton)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=psychobye.psychobye)
