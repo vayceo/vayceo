@@ -1,4 +1,4 @@
-## PSYCHOBYE
+## ABOUT
 
 multi-engine developer, designer & technical lead.
 
@@ -17,6 +17,6 @@ multi-engine developer, designer & technical lead.
 
 ## connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/marindayooo)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/psychobye)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=psychobye.psychobye)
